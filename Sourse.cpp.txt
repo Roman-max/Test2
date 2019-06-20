@@ -7,7 +7,7 @@ if(a>b)
 {
 cout <<"Number 2 more "<<endl;
 }
-else if
+else if(b>a)
 {
 cout <<"Number 1 more "<<endl;
 }
