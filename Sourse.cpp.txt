@@ -1,0 +1,16 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+int a=2,b=1;
+if(a>b)
+{
+cout <<"Number 2 more "<<endl;
+}
+else if
+{
+cout <<"Number 1 more "<<endl;
+}
+system("pause");
+return 0;
+}
